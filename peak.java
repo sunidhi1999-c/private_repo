@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-public class peak {
+public class peak {//Peak would be suggested//
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
